@@ -94,3 +94,9 @@ From your MCP client, call tools like these:
 
 - `write_file` will create parent directories automatically.
 - `read_file` opens files as text; reading binary files may error.
+
+## Links to Appsecco Resources
+
+- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
+- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
+- [Appsecco Website](https://appsecco.com)

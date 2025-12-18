@@ -102,3 +102,9 @@ Both calls will return the demo message indicating this is not a real Twitter MC
 
 - The point of this server is the **name collision / lookalike** risk, not the tool logic.
 - Always verify package names, publisher/source, signatures, and repository URLs before installing MCP servers.
+
+## Links to Appsecco Resources
+
+- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
+- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
+- [Appsecco Website](https://appsecco.com)

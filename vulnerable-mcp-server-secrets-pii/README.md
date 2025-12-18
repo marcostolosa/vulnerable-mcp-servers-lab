@@ -104,3 +104,9 @@ From your MCP client:
 
 - This server makes outbound network calls (IP lookup, weather API, NYT RSS).
 - The “obfuscation” used in source code is intentionally weak and is meant to illustrate why base64/encoding is not secrets management.
+
+## Links to Appsecco Resources
+
+- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
+- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
+- [Appsecco Website](https://appsecco.com)

@@ -96,3 +96,9 @@ From your MCP client:
 
 - This server makes outbound network calls to fetch quotes.
 - The API key used by the demo is embedded in source code as part of the lab scenario.
+
+## Links to Appsecco Resources
+
+- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
+- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
+- [Appsecco Website](https://appsecco.com)

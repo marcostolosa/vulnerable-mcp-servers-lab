@@ -126,3 +126,9 @@ npm audit
 ```bash
 npm ls
 ```
+
+## Links to Appsecco Resources
+
+- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
+- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
+- [Appsecco Website](https://appsecco.com)

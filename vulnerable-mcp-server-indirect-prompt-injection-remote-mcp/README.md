@@ -147,3 +147,9 @@ These documents intentionally contain embedded instructions that attempt to bias
 - This server is intentionally insecure and exists only for demonstration/training.
 - Document content is loaded from `documents/*.txt` so you can easily tweak injection payloads.
 - This server intentionally has **no authentication** and is meant for local/lab use only.
+
+## Links to Appsecco Resources
+
+- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
+- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
+- [Appsecco Website](https://appsecco.com)

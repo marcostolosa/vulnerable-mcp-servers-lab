@@ -114,3 +114,9 @@ If you treat retrieved content as instructions rather than untrusted data, a mal
 
 - This server makes outbound requests to Wikipedia and may be rate-limited/blocked depending on your environment.
 - This is intentionally insecure and exists only for demonstration/training.
+
+## Links to Appsecco Resources
+
+- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
+- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
+- [Appsecco Website](https://appsecco.com)
